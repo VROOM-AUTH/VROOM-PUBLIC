@@ -1,14 +1,26 @@
-# Autonomous Systems Engineer
+# Junior Autonomous Systems Engineer
 
 Are you passionate about autonomous driving and smart city tech? We're looking for enthusiastic students to join our team and help us develop cutting-edge **autonomous driving solutions** for 1:10 scaled vehicles!
 
 As an Autonomous Systems Engineer, you'll be diving into the world of algorithm development to make our vehicles fully autonomous and our miniaturised city smart. You’ll mostly be coding in **Python**, with a bit of C++ thrown in for good measure. Your work will involve testing your algorithms in the **Gazebo simulator** using ROS and then bringing them into life with hands-on testing in the VROOM lab. Additionally, you'll be supporting the development and testing of the **servers** that make up the backbone of our smart city infrastructure.
 
-But that's not all! You'll also get the chance to work on the **hardware side** of things. This includes **3D designing and printing** custom parts for our vehicles and infrastructure, creating and assembling PCBs, selecting and evaluating off-the-shelf components, and assembling the complete structures of our vehicles and servers.
+This position is part of our dedicated Junior team, which has grown significantly over the years — both in size and impact. Becoming a Junior member means joining a well-structured onboarding process designed to help you integrate smoothly into the team and built confidence and skills. You'll be exposed to a wide range of progressively challenging tasks, with the freedom to focus on what excites you most — whether it's algorithm development, simulation or system integration.
+Most importantly, training and mentorship are at the heart of the Junior experience. You won't just be thrown into a task — you'll be guided step-by-step, learning real-world engineering practices and becoming familiar with the tools and methods we use every day.
 
 Why join us? You'll have the opportunity to innovate and experiment with the latest in autonomous driving and **smart city** technologies. You'll collaborate and learn with a team of like-minded students, gaining valuable experience along the way. Most importantly, you'll see your work come to life in a dynamic, real-world environment.
 
 Sounds exciting? Be a part of our team and let’s drive the future of autonomous technology!
+
+# Hardware Engineer
+Are you excited about building real systems and seeing your designs come to life? We're looking for enthusiastic students to join our team and help us develop the hardware behind our 1:10 scale autonomous vehicles and the smart infrastructure that supports them!
+
+As a Hardware Engineer, you’ll dive into the world of **electronics**, mechanical design, and rapid prototyping. You’ll be working on a variety of hands-on tasks that bring our systems to life — from **3D designing** and printing custom parts for vehicles and infrastructure, to **creating and assembling PCBs**, and **integrating components** such as sensors, actuators, and controllers. You’ll also contribute to selecting and testing off-the-shelf electronic modules, and take part in assembling the full structures of our vehicles and server stations that power our miniature smart city.
+And while the work is hands-on, you're never on your own. Whether it's a sensor that needs troubleshooting, a power module behaving unpredictably, or a signal that just doesn’t look quite right, you’ll be called to **identify the issue and help find a working solution** — learning how to approach real hardware problems with patience and practical thinking. For this reason, you'll often find yourself **working closely with the vehicle engineers**, becoming an integral part of their team with a clear and essential role in ensuring that every hardware component performs reliably under real-world conditions.
+
+Why join us?
+Through experimentation and collaboration, you’ll start to develop the mindset of a real engineer — one who thinks creatively, practically, and systematically when challenges arise. These aren’t just support tasks — they are where some of the most meaningful learning happens, giving you confidence to tackle real-world engineering problems beyond the lab.
+
+Ready to get your hands dirty and bring ideas to life?
 
 # Full Stack Developer
 
