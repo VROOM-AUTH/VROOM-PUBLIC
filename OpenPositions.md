@@ -15,7 +15,8 @@ Sounds exciting? Be a part of our team and let’s drive the future of autonomou
 Are you excited about building real systems and seeing your designs come to life? We're looking for enthusiastic students to join our team and help us develop the hardware behind our 1:10 scale autonomous vehicles and the smart infrastructure that supports them!
 
 As a Hardware Engineer, you’ll dive into the world of **electronics**, mechanical design, and rapid prototyping. You’ll be working on a variety of hands-on tasks that bring our systems to life — from **3D designing** and printing custom parts for vehicles and infrastructure using **Solidworks**, to **creating and assembling PCBs** and **integrating components** such as sensors, converters and controllers. 
-And while the work is hands-on, you're never on your own. Whether it's a sensor that needs troubleshooting, a power module behaving unpredictably or a signal that just doesn’t look quite right, you’ll be called to **identify the issue and help find a working solution** — learning how to approach real hardware problems with practical thinking. For this reason, you'll often find yourself **working closely with the vehicle engineers**, becoming an integral part of their team with a clear and essential role in ensuring that every hardware component performs reliably under real-world conditions.
+
+While the work is hands-on, you're never on your own. Whether it's a sensor that needs troubleshooting, a power module behaving unpredictably or a signal that just doesn’t look quite right, you’ll be called to **identify the issue and help find a working solution** — learning how to approach real hardware problems with practical thinking. For this reason, you'll often find yourself **working closely with the vehicle engineers**, becoming an integral part of their team with a clear and essential role in ensuring that every hardware component performs reliably under real-world conditions.
 
 Why join us?
 Through experimentation and collaboration, you’ll start to develop the mindset of an engineer  who thinks creatively, practically, and systematically when challenges arise. These aren’t just support tasks — they are where some of the most meaningful learning happens, giving you confidence to tackle real-world engineering problems beyond the lab.
@@ -44,6 +45,7 @@ In the realm of **Fundraising**, you'll play a crucial role in reaching out to *
 
 We understand that you might not have experience in all of these areas, and that’s okay! We are looking for someone interested in learning and passionate about contributing to some of these tasks. You’ll work closely with other team members, gaining valuable experience and support along the way.
 
-If you're eager to grow your skills in marketing and fundraising and want to be part of a dynamic and innovative team, we’d love to have you join Team VROOM! Help us spread the word about our cutting-edge projects and secure the support we need to keep moving forward!
+If you're eager to grow your skills in marketing and fundraising and want to be part of a dynamic and innovative team, we’d love to have you join Team VROOM! 
+Help us spread the word about our cutting-edge projects and secure the support we need to keep moving forward!
 
 # [APPLY HERE!](https://forms.gle/at23LnkYaEoVFW7KA)
