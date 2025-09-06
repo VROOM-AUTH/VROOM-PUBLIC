@@ -1,6 +1,6 @@
-# Advanced Autonomous Systems Engineer
+# Senior Autonomous Systems Engineer
 
-We are looking for highly motivated students to join our Advanced Team in the development of our next-generation autonomous  scaled vehicle and the improvement of our smart Lab.
+We are looking for highly motivated students to join our Advanced Team in the development of our next-generation autonomous caled vehicle and the improvement of our smart Lab.
 
 As an **Advanced Autonomous Systems Engineer**, you'll be responsible for designing, implementing, and optimizing complex algorithms, primarily focused on Python and also C++, to **create fully autonomous vehicles capable of navigating smart cities**. Your work will lie at the intersection of logic and perception, where your algorithms will first be tested on the Gazebo simulator using ROS, allowing rigorous simulation experiments to be carried out. Following successful validation, you will transition to real-world testing in the VROOM car. Nowadays, cutting-edge autonomous vehicle navigation relies heavily on technologies such as **neural networks, localization, and advanced sensor data analysis (depth cameras, LiDAR)**, and you will be working hands-on with these tools. In addition, you will contribute to the development and optimization of the server infrastructures that form the backbone of our lab’s smart city, ensuring **efficient data exchange** and enabling **real-time decision-making** across vehicles and systems."
 
